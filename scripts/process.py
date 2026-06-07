@@ -1,5 +1,4 @@
 from pathlib import Path
-import json
 from openai import OpenAI
 import os
 import sys
@@ -23,10 +22,10 @@ notes.mkdir(exist_ok=True)
 # -------------------------
 # Safety check
 # -------------------------
-files = list(incoming.glob("*.json"))
+files = list(incoming.glob("*.txt"))
 
 if not files:
-    print("⚠️ No incoming JSON files found.")
+    print("⚠️ No incoming TXT files found.")
     sys.exit(0)
 
 print(f"📦 Found {len(files)} files")
@@ -44,25 +43,7 @@ for file in files:
             print(f"⚠️ Empty file skipped: {file.name}")
             continue
 
-        # -------------------------
-        # JSON parse
-        # -------------------------
-        try:
-            data = json.loads(raw)
-        except json.JSONDecodeError:
-            print(f"❌ JSON error in file: {file.name}")
-            continue
-
-        # -------------------------
-        # TEXT extraction (FIX 핵심)
-        # -------------------------
-        text = data.get("text") or data.get("Text") or ""
-
-        text = text.strip()
-
-        if not text:
-            print(f"⚠️ No valid text in: {file.name}")
-            continue
+        text = raw  # TXT는 그대로 사용
 
         print(f"🧠 Input length: {len(text)} chars")
 
@@ -112,7 +93,7 @@ difficulty:
         print(f"✅ Saved: {out_file.name}")
 
     except Exception as e:
-        print(f"❌ Unexpected error in {file.name}: {str(e)}")
+        print(f"❌ Error in {file.name}: {str(e)}")
         continue
 
 print("\n🎉 Processing completed.")
