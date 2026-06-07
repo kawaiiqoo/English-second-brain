@@ -44,13 +44,27 @@ for file in files:
             print(f"⚠️ Empty file skipped: {file.name}")
             continue
 
-        data = json.loads(raw)
+        # -------------------------
+        # JSON parse
+        # -------------------------
+        try:
+            data = json.loads(raw)
+        except json.JSONDecodeError:
+            print(f"❌ JSON error in file: {file.name}")
+            continue
 
-        text = data.get("text")
+        # -------------------------
+        # TEXT extraction (FIX 핵심)
+        # -------------------------
+        text = data.get("text") or data.get("Text") or ""
+
+        text = text.strip()
 
         if not text:
-            print(f"⚠️ No 'text' field in: {file.name}")
+            print(f"⚠️ No valid text in: {file.name}")
             continue
+
+        print(f"🧠 Input length: {len(text)} chars")
 
         # -------------------------
         # GPT Call
@@ -96,10 +110,6 @@ difficulty:
         out_file.write_text(output, encoding="utf-8")
 
         print(f"✅ Saved: {out_file.name}")
-
-    except json.JSONDecodeError:
-        print(f"❌ JSON error in file: {file.name}")
-        continue
 
     except Exception as e:
         print(f"❌ Unexpected error in {file.name}: {str(e)}")
