@@ -1,22 +1,22 @@
 ---
-date: 2023-06-30
-topic: Adverbs of Manner
+date: 2023-06-21
+topic: Expressions of Clarity
 difficulty: Beginner
 ---
 
-# genuinely
+# clearly
 
 ## Meaning
 
-"Genuinely" is an adverb that means something is true, real, honest, or sincere—not fake or pretended.
+Used to emphasize that something is obvious, easy to understand, or without doubt.
 
 ## Example
 
-She was genuinely happy to see her old friend again.
+She clearly understands the instructions.
 
 ## Related Expressions
 
-- sincerely
-- truly
-- honestly
-- really
+- obviously
+- evidently
+- plainly
+- without a doubt
