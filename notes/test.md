@@ -1,6 +1,6 @@
 ---
-date: 2024-06-19
-topic: Everyday expressions
+date: 2024-06-13
+topic: Everyday Expressions
 difficulty: Easy
 ---
 
@@ -8,16 +8,17 @@ difficulty: Easy
 
 ## Meaning
 
-"I bet" is an informal expression used to show that you strongly believe something is true, or to show understanding and agreement when someone tells you about their experience or feelings. It can also mean that you think something is very likely.
+"I bet" is an informal expression used to show that you strongly believe something is true, or to agree with what someone is saying, often with empathy or understanding. It can also express that you think something is probably the case, usually based on context.
 
 ## Example
 
-A: "I just got back from a 12-hour shift at work. I'm exhausted!"
-B: "I bet!"
+A: "It was so crowded at the concert last night."
+B: "I bet! It was a really popular band."
 
 ## Related Expressions
 
 - I can imagine.
-- I'm sure.
-- No wonder.
+- I’m sure.
+- No doubt.
+- I guess so.
 - That makes sense.
