@@ -1,23 +1,23 @@
 ---
-date: 2024-06-19
-topic: Common Expressions
+date: 2024-06-18
+topic: Everyday Expressions
 difficulty: Easy
 ---
 
-# I bet
+# I bet.
 
 ## Meaning
 
-"I bet" is an informal way of saying you are very sure about something or you strongly believe what someone just said. It can also be used to show that you understand how someone feels or to agree with what they said. Sometimes, it can also be used sarcastically.
+"I bet" is an informal expression used to show that you strongly believe something is true, or to agree with what someone has said, often when you can imagine or understand how they feel.
 
 ## Example
 
-- A: "I had to stay up all night to finish my homework."
-- B: "I bet you're really tired."
+A: "It took me hours to finish all my homework!"
+B: "I bet! That sounds tough."
 
 ## Related Expressions
 
 - I'm sure
 - I can imagine
-- No doubt
+- No wonder
 - I guess so
