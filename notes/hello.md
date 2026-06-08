@@ -1,22 +1,26 @@
 ---
 date: 2024-06-13
-topic: Slang / Informal Expressions
-difficulty: Easy
+topic: Vocabulary - Nouns
+difficulty: Intermediate
 ---
 
-# lowkey
+# succession
 
 ## Meaning
 
-"Lowkey" is a slang term used to describe something discreet, subtle, or not meant to attract a lot of attention. It can also mean that someone feels something secretly or moderately, not extremely.
+"Succession" is a noun that means a sequence of people or things coming one after another, or the process by which one person or thing replaces another. It is often used to describe the order of things following each other (like in a line or a series), or the process of inheriting a position or title.
 
 ## Example
 
-I lowkey want to skip the party tonight and just stay home.
+- The king died, and his son became the new king in succession.
+- The area was ruled by a succession of different leaders.
+- Spring comes in succession after winter.
 
 ## Related Expressions
 
-- on the down low (or "on the DL")  
-- secretly  
-- quietly  
-- under the radar
+- sequence
+- series
+- in a row
+- inheritance
+- take over
+- ascend (the throne)

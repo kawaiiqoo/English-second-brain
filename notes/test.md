@@ -1,23 +1,26 @@
 ---
-date: 2023-06-15
-topic: Everyday Expressions
-difficulty: Easy
+date: 2024-06-13  
+topic: Expressing Involuntary Feelings/Actions  
+difficulty: Intermediate  
 ---
 
-# I bet
+# I can't help ~ing
 
 ## Meaning
 
-"I bet" is an informal expression used to show that you are sure or confident about something, or to agree with someone’s statement. It's also used to express sympathy or understanding of someone's situation.
+"I can't help ~ing" means that you cannot stop yourself from feeling a certain way or doing something. It expresses that something happens involuntarily or naturally, often due to strong emotions or habits.
 
 ## Example
 
-A: "I was so tired after working all day."
-B: "I bet!"
+- I can't help worrying about my future.  
+(내 미래가 걱정될 수밖에 없어.)
+
+- I can't help thinking that we made the wrong decision.  
+(우리가 잘못된 결정을 내린 것 같다는 생각이 자꾸 들어.)
 
 ## Related Expressions
 
-- I'm sure
-- I can imagine
-- No doubt
-- Definitely
+- I can't stop ~ing  
+- I find myself ~ing  
+- I have no choice but to ~  
+- I can't avoid ~ing
