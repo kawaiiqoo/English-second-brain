@@ -1,6 +1,6 @@
 ---
 date: 2024-06-13
-topic: Slang/Informal Expressions
+topic: Slang / Informal Expressions
 difficulty: Easy
 ---
 
@@ -8,15 +8,15 @@ difficulty: Easy
 
 ## Meaning
 
-"Lowkey" is a slang term used to describe something that is subtle, not obvious, or kept quiet. It is often used to express that you feel something a little bit, but don’t want to make it a big deal or announce it loudly. It can also mean you want to keep something secret or not let many people know about it.
+"Lowkey" is a slang term used to describe something discreet, subtle, or not meant to attract a lot of attention. It can also mean that someone feels something secretly or moderately, not extremely.
 
 ## Example
 
-I lowkey want to eat pizza tonight, but I’m trying to eat healthy.
+I lowkey want to skip the party tonight and just stay home.
 
 ## Related Expressions
 
-- on the down-low (on the DL)
-- secretly
+- on the down low (or "on the DL")  
+- secretly  
+- quietly  
 - under the radar
-- not gonna lie (NGL)
