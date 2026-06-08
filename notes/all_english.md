@@ -1,23 +1,23 @@
 ---
-date: 2023-06-30
-topic: Adverbs of Manner
+date: 2024-06-12
+topic: Expressions for clarity
 difficulty: Beginner
 ---
 
-# Clearly
+# clearly
 
 ## Meaning
 
-"Clearly" is an adverb used to express that something is easy to see, understand, or notice. It can also mean "in a way that is obvious" or "without any doubt."
+"Clearly" is an adverb used to show that something is obvious or easy to understand. It can also be used to emphasize that what you are saying is true and cannot be doubted.
 
 ## Example
 
-- She spoke clearly so that everyone could understand her.
-- It is clearly a mistake—please fix it.
+- Clearly, she is the best candidate for the job.
+- You can clearly see the difference between the two pictures.
 
 ## Related Expressions
 
-- Obviously
-- Plainly
-- Evidently
-- Without a doubt
+- obviously
+- plainly
+- evidently
+- without a doubt
