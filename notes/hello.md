@@ -1,6 +1,6 @@
 ---
-date: 2023-07-16
-topic: Vocabulary - "succession"
+date: 2023-07-03
+topic: Vocabulary - Succession
 difficulty: Intermediate
 ---
 
@@ -8,15 +8,17 @@ difficulty: Intermediate
 
 ## Meaning
 
-"Succession" is a noun that refers to the act of following one another in order or sequence, or the process by which one person or thing takes over the position, office, or role of another.
+The word "succession" is a noun and means the act or process of following in order or sequence, or the process by which someone takes over a position, title, or responsibility from someone else.
 
 ## Example
 
-After the king died, there was a long debate about the succession to the throne.
+There was a rapid succession of cars passing by the house.
+After the king died, his son became the ruler by right of succession.
 
 ## Related Expressions
 
-- succession plan
-- in quick succession
-- line of succession
-- successor
+- in sequence
+- series
+- in a row
+- inheritance
+- take over
