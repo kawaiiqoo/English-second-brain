@@ -1,24 +1,22 @@
 ---
-date: 2024-06-14
-topic: Agreeing
-difficulty: Beginner
+date: 2024-06-18
+topic: Slang
+difficulty: Easy
 ---
 
-# I couldn't agree more
+# lowkey
 
 ## Meaning
 
-This expression means "I completely agree" or "I totally agree with you." It emphasizes very strong agreement with what someone has just said.
+"Lowkey" is a slang expression that means "a little bit," "somewhat," or "in a subtle, not obvious way." It can be used to express something you feel or want but don’t want to emphasize openly or strongly. It is often the opposite of "highkey," which means "very" or "obviously."
 
 ## Example
 
-A: "This movie is amazing!"
-B: "I couldn't agree more. It's fantastic!"
+- I lowkey want to skip the party and stay home tonight.
+- She was lowkey nervous about the test, but didn’t show it.
 
 ## Related Expressions
 
-- I totally agree.
-- Absolutely!
-- You’re absolutely right.
-- I’m with you.
-- That’s exactly how I feel.
+- highkey (very, obviously)
+- kind of / sorta (somewhat)
+- on the down low (secretly)
